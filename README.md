@@ -1,9 +1,6 @@
-# X-Omics Proteogenomics workshop 2024
-Informtion related to proteogenomics workshop organised in Groningen (The Netherlands), July 16-17, 2024
-
-# X-omics training 
-**Workshop “Protein variant detection with proteogenomics data integration”**<br>
-University of Groningen, the Netherlands, July 16 and 17 2024
+# <img src="https://www.health-ri.nl/sites/healthri/files/styles/header_service/public/2020-02/xomicslogo.png.JPG?itok=Eqij9eRy" width="80" title="X-Omics"> Proteogenomics workshop 2024
+**Workshop on “Protein variant detection with proteogenomics data integration”**<br>
+University of Groningen, **July 16 and 17 2024**
 
 # Program day 1
 *July 16 2024 Location 3215.0154*<br>
@@ -30,7 +27,13 @@ University of Groningen, the Netherlands, July 16 and 17 2024
 
 **Note to participants**: please bring your laptop (would be great to have at least 16GB RAM, >4 cores and 100 GB disk space). Install WSL (Windows Subsystem for Linux) and/or ssh client (e.g. Bitwise). We are working on providig VMs, but participants with specification above may try to follow the tutorial on their on laptop. WSL should include python (>3.11) and preferabely latest vscode, java OpenJDK (>17), nextflow, docker, apptainer.
 
+Training data is accessible at open [Google drive folder](https://drive.google.com/drive/u/0/folders/1HqoZoEH5d1pY8_VrVinobYWWcvZ3RqP2).
+
 Location to enter UMCG north complex ([Antinious Deusinglaan 1, 9713AV, Groningen](https://www.google.com/maps/place/UMCG%2FMedische+Faculteit/@53.2241551,6.5703908,97m/data=!3m1!1e3!4m6!3m5!1s0x47c9cd8b194078a9:0x999e4ca859cf64ff!8m2!3d53.2241143!4d6.5706481!16s%2Fg%2F11vctwm6ws?entry=ttu)) and walking route to Workshop rooms:
-![Workshop location entrances and access.](images/location.svg)
+<img src="images/location.svg" width="750">
 
 In case of questions or emergency call or email to Peter Horvatovich (+31 6 2459 7203, p.l.horvatovich@rug.nl) or Jolanda Meiderstma (+31 50 363 3336, (j.meindertsma@rug.nl).
+
+<img src="https://www.health-ri.nl/sites/healthri/files/styles/header_service/public/2020-02/xomicslogo.png.JPG?itok=Eqij9eRy" width="200" title="X-Omics"/>&emsp;
+<img src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/corporatelogo/corporatelogorood/rugr_logonl_rood_rgb.png" width="250" title="University of Groningen"/>&emsp;
+<img src="images/Eriba.jpg" width="250" title="ERIBA">
