@@ -26,4 +26,6 @@ University of Groningen, the Netherlands, July 16 and 17 2024
 16.00 - 16.15 *Coffee break* (Eriba 6th floor [building 3226] Lounge area)<br>
 16.15 - 17.15 **Evaluation and discussion with the participants**<br>
 17.15 - 17.25 **Closing remarks** (Victor Guryev)<br>
-18:00 - 21:00 Speakers dinner (Restaurant Prinsenhod Brasserie, []())
+18:00 - 21:00 Speakers dinner (Restaurant Prinsenhod Brasserie, [Martinikerkhof 23, 9712 JH Groningen](https://www.google.com/maps/place/Brasserie+Prinsenhof/@53.2209054,6.5690646,17z/data=!3m1!4b1!4m6!3m5!1s0x47c9cdebdb5de437:0x27931600f7eb6b0c!8m2!3d53.2209054!4d6.5690646!16s%2Fg%2F11fnqk813b?entry=ttu))
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
