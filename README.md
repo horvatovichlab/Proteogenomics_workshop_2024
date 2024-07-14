@@ -6,7 +6,7 @@ University of Groningen, July 16 and 17, 2024
 *July 16, 2024 Location 3215.0154*<br>
 08.30 - 08.50 *Welcome & coffee* (Eriba 6th floor [building 3226] Lounge area)<br> 
 08.50 - 09.00 **Opening and presentation of the program** (Peter Horvatovich)<br>
-09.00 - 10.30 **Introduction in proteogenomics,Quilts** and PGx (David Fenyo)<br>
+09.00 - 10.30 **Introduction in proteogenomics, Quilts and PGx** (David Fenyo)<br>
 10.30 - 10.45 *Coffee break* (Eriba 6th floor [building 3226] Lounge area)<br>
 10.45 - 12.15 **Pitfalls and challenges in proteogenomics analysis** (David Tabb)<br>
 12.15 - 13.15 *Lunch onsite* (Eriba 6th floor [building 3226] Lounge area)<br>
