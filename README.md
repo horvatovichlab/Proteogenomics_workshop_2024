@@ -1,4 +1,4 @@
-# <img src="https://www.health-ri.nl/sites/healthri/files/styles/header_service/public/2020-02/xomicslogo.png.JPG?itok=Eqij9eRy" width="80" title="X-Omics"> Proteogenomics workshop 2024, July 16 and 17, 2024
+# <img src="https://www.health-ri.nl/sites/healthri/files/styles/header_service/public/2020-02/xomicslogo.png.JPG?itok=Eqij9eRy" width="80" title="X-Omics"> Proteogenomics workshop 2024, July 16 and 17
 **Workshop on “Protein variant detection with proteogenomics data integration”**<br>
 University of Groningen, July 16 and 17, 2024
 
