@@ -46,5 +46,5 @@ The aim of this workshop is to provide an overview on proteogenomics data integr
 
 <img src="https://www.health-ri.nl/sites/healthri/files/styles/header_service/public/2020-02/xomicslogo.png.JPG?itok=Eqij9eRy" width="200" title="X-Omics"/>&emsp;
 <img src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/corporatelogo/corporatelogorood/rugr_logonl_rood_rgb.png" width="250" title="University of Groningen"/>&emsp;
-<img src="images/Eriba.jpg" width="250" title="ERIBA"/>&emsp;
+<img src="images/Eriba.jpg" width="200" title="ERIBA"/>&emsp;
 <img src="https://groeidocument.nl/cms/wp-content/uploads/2017/05/logo-umcg.png" width="160" title="UMCG"/>
