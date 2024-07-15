@@ -3,7 +3,7 @@
 University of Groningen, July 16 and 17 2024
 
 # Program day 1
-*July 16, 2024 Location 3215.0154*<br>
+*July 16, 2024 Location 3215.0154* <br>
 08.30 - 08.50 *Welcome & coffee* (3215.0154)<br> 
 08.50 - 09.00 **Opening and presentation of the program** (Peter Horvatovich)<br>
 09.00 - 10.30 **Introduction in proteogenomics, Quilts and PGx** (David Fenyo)<br>
@@ -16,7 +16,7 @@ University of Groningen, July 16 and 17 2024
 18.30 - 20.30 *Dinner with all participants* (Restaurant Rabenhaupt, [Gedempte Zuiderdiep 7, 9711 HA Groningen](https://www.google.com/maps/place/Rabenhaupt+%7C+Ontzettende+Held+In+Eten+En+Drinken!/@53.215863,6.570315,17z/data=!3m1!4b1!4m6!3m5!1s0x47c9cd5697e9b26b:0x3bdc65f3c8ad3f88!8m2!3d53.215863!4d6.570315!16s%2Fg%2F11c53bkz_s?entry=ttu))<br>
 
 # Program day 2
-*July 17, 2024 Location 3215.0149*<br>
+*July 17, 2024 Location 3215.0149 (across the hall from the location of Day 1)* <br>
 09.00 - 12.00 **Proteogenomics analysis with fragpipe** (David Tabb)<br>
 12.00 - 13.00 *Lunch onsite* (Eriba 6th floor [building 3226] Lounge area)<br>
 13.00 - 16.00 **Hands on proteogenomics tutorial with GPW** (Peter Horvatovich, Victor Guryev)<br>
