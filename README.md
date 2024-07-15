@@ -1,17 +1,17 @@
-# <img src="https://www.health-ri.nl/sites/healthri/files/styles/header_service/public/2020-02/xomicslogo.png.JPG?itok=Eqij9eRy" width="80" title="X-Omics"> Proteogenomics workshop 2024, July 16 and 17
+# <img src="https://www.health-ri.nl/sites/healthri/files/styles/header_service/public/2020-02/xomicslogo.png.JPG?itok=Eqij9eRy" width="80" title="X-Omics"> Proteogenomics workshop 2024, July 16 and 17 2024
 **Workshop on “Protein variant detection with proteogenomics data integration”**<br>
-University of Groningen, July 16 and 17, 2024
+University of Groningen, July 16 and 17 2024
 
 # Program day 1
 *July 16, 2024 Location 3215.0154*<br>
-08.30 - 08.50 *Welcome & coffee* (Eriba 6th floor [building 3226] Lounge area)<br> 
+08.30 - 08.50 *Welcome & coffee* (3215.0154)<br> 
 08.50 - 09.00 **Opening and presentation of the program** (Peter Horvatovich)<br>
 09.00 - 10.30 **Introduction in proteogenomics, Quilts and PGx** (David Fenyo)<br>
-10.30 - 10.45 *Coffee break* (Eriba 6th floor [building 3226] Lounge area)<br>
+10.30 - 10.45 *Coffee break* (3215.0154)<br>
 10.45 - 12.15 **Pitfalls and challenges in proteogenomics analysis** (David Tabb)<br>
 12.15 - 13.15 *Lunch onsite* (Eriba 6th floor [building 3226] Lounge area)<br>
 13.15 - 14.45 **Protein variant detection with Groningen Proteogenomics Workflow** (Peter Horvatovich, Victor Guryev)<br>
-14.45 - 15.00 *Coffee break* (Eriba 6th floor [building 3226] Lounge area)<br>
+14.45 - 15.00 *Coffee break* (3215.0154)<br>
 15.00 - 18.00 **Hands on tutorial with Quilts and PGx** (David Fenyo)<br>
 18.30 - 20.30 *Dinner with all participants* (Restaurant Rabenhaupt, [Gedempte Zuiderdiep 7, 9711 HA Groningen](https://www.google.com/maps/place/Rabenhaupt+%7C+Ontzettende+Held+In+Eten+En+Drinken!/@53.215863,6.570315,17z/data=!3m1!4b1!4m6!3m5!1s0x47c9cd5697e9b26b:0x3bdc65f3c8ad3f88!8m2!3d53.215863!4d6.570315!16s%2Fg%2F11c53bkz_s?entry=ttu))<br>
 
@@ -20,7 +20,7 @@ University of Groningen, July 16 and 17, 2024
 09.00 - 12.00 **Proteogenomics analysis with fragpipe** (David Tabb)<br>
 12.00 - 13.00 *Lunch onsite* (Eriba 6th floor [building 3226] Lounge area)<br>
 13.00 - 16.00 **Hands on proteogenomics tutorial with GPW** (Peter Horvatovich, Victor Guryev)<br>
-16.00 - 16.15 *Coffee break* (Eriba 6th floor [building 3226] Lounge area)<br>
+16.00 - 16.15 *Coffee break* (3215.0149)<br>
 16.15 - 17.15 **Evaluation and discussion with the participants**<br>
 17.15 - 17.25 **Closing remarks** (Victor Guryev)<br>
 18:00 - 21:00 Speakers dinner (Restaurant Prinsenhod Brasserie, [Martinikerkhof 23, 9712 JH Groningen](https://www.google.com/maps/place/Brasserie+Prinsenhof/@53.2209054,6.5690646,17z/data=!3m1!4b1!4m6!3m5!1s0x47c9cdebdb5de437:0x27931600f7eb6b0c!8m2!3d53.2209054!4d6.5690646!16s%2Fg%2F11fnqk813b?entry=ttu))
@@ -43,6 +43,16 @@ Protein variants play an essential role either as molecular drivers or as risk f
 
 ## Content of the workshop
 The aim of this workshop is to provide an overview on proteogenomics data integration tools allowing to identify protein variants from LC MS/MS using predicted protein variants from genomic or transcriptomics data obtained from the same sample The workshop will present theory and tutorial on Quilts, PGx tools developed by David Fenyo laboratory (New York University), Groningen Proteogenomics Workflow (developed at University of Groningen as part of X Omics consortium (Peter Horvatovich, Victor Guryev and Yanick Hagemeijer) and the proteogenomics data integration workflow developed by David Tabb.
+
+## Venue
+UMCG North, University of Groningen, Groningen, Antonious Deusinglaan 1 9713 AV.
+
+## Key lecturers and tutors
+David Fenyo (University of New York), David Tabb (University of Groningen), Peter Horvatovich (University of Groningen), Victor Guryev (University of Groningen), Yanick Hagemeijer (University of Groningen), Kristoffer Basse (University of Groningen) and Bea Szeitz (Korányi Institute).
+
+## Course fee, travel and accommodation
+Attendance to the course is free, but travel and accommodation expenses should be covered by the participants Recommended accommodations are The Social Hub Groningen ([Boterdiep 9 9712 LH Groningen](https://www.thesocialhub.co/groningen/?utm_source=googlemybusiness&utm_medium=organic&y_source=1_Mjc4NzI2MDUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D)) and
+Hotel NH Groningen ([Hanzeplein 132 9713 GW Groningen](https://www.nh-hotels.com/en/hotel/nh-groningen?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb)).
 
 <img src="https://www.health-ri.nl/sites/healthri/files/styles/header_service/public/2020-02/xomicslogo.png.JPG?itok=Eqij9eRy" width="200" title="X-Omics"/>&emsp;
 <img src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/corporatelogo/corporatelogorood/rugr_logonl_rood_rgb.png" width="250" title="University of Groningen"/>&emsp;
