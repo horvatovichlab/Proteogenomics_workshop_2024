@@ -12,7 +12,7 @@ Location: 3215.0154 (RUG building 3215, 1st floor, room 0154)<br>
 12.15 - 13.15 *Lunch onsite* (Eriba 6th floor [building 3226] Lounge area)<br>
 13.15 - 14.45 **Protein variant detection with Groningen Proteogenomics Workflow** (Peter Horvatovich, Victor Guryev)<br>
 14.45 - 15.00 *Coffee break* (3215.0154)<br>
-15.00 - 18.00 **Hands on tutorial with Quilts and PGx** (David Fenyo)<br>
+15.00 - 18.00 **Hands on tutorial with Quilts and PGx** (David Fenyo) [link to tutorials: [QUILTS & PGx](https://github.com/horvatovichlab/Proteogenomics_workshop_2024/tree/main/QUILTS%20%26%20PGx)]<br>
 18.30 - 20.30 *Dinner with all participants* (Restaurant Rabenhaupt, [Gedempte Zuiderdiep 7, 9711 HA Groningen](https://www.google.com/maps/place/Rabenhaupt+%7C+Ontzettende+Held+In+Eten+En+Drinken!/@53.215863,6.570315,17z/data=!3m1!4b1!4m6!3m5!1s0x47c9cd5697e9b26b:0x3bdc65f3c8ad3f88!8m2!3d53.215863!4d6.570315!16s%2Fg%2F11c53bkz_s?entry=ttu))<br>
 
 # Program July 17, 2024
