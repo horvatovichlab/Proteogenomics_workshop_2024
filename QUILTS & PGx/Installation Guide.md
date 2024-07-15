@@ -1,6 +1,6 @@
 # QUILTS
 
-## 1)    Install python.
+## 1) Install python.
 
 Installing python with a package manager such as Anaconda is recommended.
 
@@ -12,11 +12,11 @@ a.    Anaconda: https://docs.anaconda.com/anaconda/install/
 
 b.    Miniconda: https://docs.anaconda.com/miniconda/
  
-## 2)    Download the QUILTS code.
+## 2) Download the QUILTS code.
 
 Download the QUILTS code from the github repository and extract it to a convenient location on your system: https://github.com/ruggleslab/pyQUILTS/archive/refs/heads/master.zip
  
-## 3)    Download example data.
+## 3) Download example data.
 
 Download the reference database and the example input data here: https://drive.google.com/drive/folders/10LsvpLnrsevbSSId1IqYhosIUyQ1uvbC?usp=sharing. 
 
@@ -44,7 +44,7 @@ For example, use this structure:
  
 &nbsp;&nbsp;&nbsp;&nbsp;**/home/software/data/chr22**
  
-## 4)    Create a shell script (MacOS/Linux) or batch file (Windows).
+## 4) Create a shell script (MacOS/Linux) or batch file (Windows).
 
 Create a shell script (MacOS/Linux) or batch file (Windows) to execute QUILTS:
 
@@ -58,7 +58,7 @@ QUILTS will pull all files within a folder for input, so each input file type wi
 
 Please refer to the README file included with the QUILTS source code for further details on input parameters.
 
-## 5)    Create a conda environment and run QUILTS.
+## 5) Create a conda environment and run QUILTS.
 
 a.    Open Terminal in Mac or the Anaconda Shell in Windows
  
@@ -114,6 +114,55 @@ chmod a+x read_chr_bed_lx
 
 (Linux)
 
-## 6)    Check QUILTS output. 
+## 6) Check QUILTS output. 
 
 QUILTS output is described in the **README** file and **OUTPUT FASTA HEADER KEY.txt**
+
+<br><br><br><br>
+
+# PGx
+
+## 1) Download the PGx code.
+
+Download the PGx code from the github repository and extract it to a convenient location on your system: 
+https://github.com/FenyoLab/PGx/archive/refs/heads/master.zip
+
+## 2) Create and activate environment.
+
+The same conda environment that was created for QUILTS can be used for PGx. (See QUILTS step 5a-c)
+
+Open Terminal (Mac) or Anaconda Shell (Windows). 
+ 
+a.    Activate the conda environment (step 5c for QUILTS above)
+
+b.    Change your current directory to the directory where the PGx source code was saved.  For example:
+
+```markdown
+cd home/software/PGx  
+```
+
+## 3) Run PGx.
+
+Run the example pipeline for PGx by
+
+- (1) indexing the custom proteome stored in the “oncoproteome” folder
+
+- (2) querying the custom proteome with the example peptide in “peptides.txt” and
+
+- (3) mapping the peptide location(s) to a bed file with genomic coordinates:
+
+```markdown
+python pgx_index.py oncoproteome  
+```
+
+```markdown
+python pgx_query.py oncoproteome peptides.txt > hits.txt  
+```
+
+```markdown
+python pgx_bed.py oncoproteome hits.txt > hits.bed  
+```
+
+## 4) Check PGx output.
+
+More details can be found in the **README** file included with the PGx repository.
