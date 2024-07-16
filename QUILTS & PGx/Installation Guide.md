@@ -81,12 +81,12 @@ cd /home/software/pyQUILTS
 d. Execute QUILTS.  For example:
 
 ```markdown
-./runquilts.sh
+./runtest.sh
 ```
 (MacOS/Linux) or
 
 ```markdown
-runquilts.bat  
+runtest.bat  
 ```
 
 (Windows)
