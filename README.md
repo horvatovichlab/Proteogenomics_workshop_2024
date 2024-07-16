@@ -17,7 +17,7 @@ Location: 3215.0154 (RUG building 3215, 1st floor, room 0154)<br>
 
 # Program July 17, 2024
 Location: 3215.0149 (RUG building 3215, 1st floor, room 149, **Across the hall from the yesterday's room**)<br>
-09.00 - 12.00 **Proteogenomics analysis with fragpipe** (David Tabb)<br>
+09.00 - 12.00 **Proteogenomics analysis with fragpipe** (David Tabb). Please download for this tutorial the following [data](https://drive.google.com/drive/folders/1ZgSiJ51l1FsqlvJhccE5a4Te_SVlsJFz?usp=drive_link).<br>
 12.00 - 13.00 *Lunch onsite* (Eriba 6th floor [building 3226] Lounge area)<br>
 13.00 - 16.00 **Hands on proteogenomics tutorial with GPW** (Peter Horvatovich, Victor Guryev)<br>
 16.00 - 16.15 *Coffee break* (3215.0149)<br>
