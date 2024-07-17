@@ -6,11 +6,11 @@ University of Groningen, July 16 and 17 2024
 Location: 3215.0154 (RUG building 3215, 1st floor, room 0154)<br>
 08.30 - 08.50 *Welcome & coffee* (3215.0154)<br> 
 08.50 - 09.00 **Opening and presentation of the program** (Peter Horvatovich)<br>
-09.00 - 10.30 **Introduction in proteogenomics, Quilts and PGx** (David Fenyo)<br>
+09.00 - 10.30 **[Introduction in proteogenomics, Quilts and PGx](https://docs.google.com/presentation/d/1KuaiUTx81J_Tzv-mMNR1m0aou3Hw_g4XjMhDjJi6KE0/edit?usp=drive_link)** (David Fenyo)<br>
 10.30 - 10.45 *Coffee break* (3215.0154)<br>
-10.45 - 12.15 **Pitfalls and challenges in proteogenomics analysis** (David Tabb)<br>
+10.45 - 12.15 **[Pitfalls and challenges in proteogenomics analysis](https://docs.google.com/presentation/d/1PqvGDz9WI5ZeZidUvm4FPTv4h6ZxzPCh/edit?usp=drive_link&ouid=112250493808860784260&rtpof=true&sd=true)** (David Tabb)<br>
 12.15 - 13.15 *Lunch onsite* (Eriba 6th floor [building 3226] Lounge area)<br>
-13.15 - 14.45 **Protein variant detection with Groningen Proteogenomics Workflow** (Peter Horvatovich, Victor Guryev)<br>
+13.15 - 14.45 **[Protein variant detection with Groningen Proteogenomics Workflow](https://drive.google.com/file/d/15-A0QgvzjTaHZ4TcLRL4KvzwrQmyO4b7/view?usp=drive_link)** (Peter Horvatovich, Victor Guryev)<br>
 14.45 - 15.00 *Coffee break* (3215.0154)<br>
 15.00 - 18.00 **Hands on tutorial with Quilts and PGx** (David Fenyo) [link to tutorials: [QUILTS & PGx](https://github.com/horvatovichlab/Proteogenomics_workshop_2024/tree/main/QUILTS%20%26%20PGx)]<br>
 18.30 - 20.30 *Dinner with all participants* (Restaurant Rabenhaupt, [Gedempte Zuiderdiep 7, 9711 HA Groningen](https://www.google.com/maps/place/Rabenhaupt+%7C+Ontzettende+Held+In+Eten+En+Drinken!/@53.215863,6.570315,17z/data=!3m1!4b1!4m6!3m5!1s0x47c9cd5697e9b26b:0x3bdc65f3c8ad3f88!8m2!3d53.215863!4d6.570315!16s%2Fg%2F11c53bkz_s?entry=ttu))<br>
@@ -19,7 +19,7 @@ Location: 3215.0154 (RUG building 3215, 1st floor, room 0154)<br>
 Location: 3215.0149 (RUG building 3215, 1st floor, room 149, **Across the hall from the yesterday's room**)<br>
 09.00 - 12.00 **Proteogenomics analysis with fragpipe** (David Tabb). Please download for this tutorial the following [data](https://drive.google.com/drive/folders/1ZgSiJ51l1FsqlvJhccE5a4Te_SVlsJFz?usp=drive_link).<br>
 12.00 - 13.00 *Lunch onsite* (Eriba 6th floor [building 3226] Lounge area)<br>
-13.00 - 16.00 **Hands on proteogenomics tutorial with GPW** (Peter Horvatovich, Victor Guryev)<br>
+13.00 - 16.00 **[Hands on proteogenomics tutorial with GPW](https://drive.google.com/file/d/13_CWLOyGHOdJDWVnMbQ5Q0ZjFY6dvIVS/view?usp=drive_link)** (Peter Horvatovich, Victor Guryev)<br>
 16.00 - 16.15 *Coffee break* (3215.0149)<br>
 16.15 - 17.15 **Evaluation and discussion with the participants** <br>
 17.15 - 17.25 **Closing remarks** (Victor Guryev)<br>
@@ -43,16 +43,16 @@ Location to enter UMCG north complex ([Antonius Deusinglaan 1, 9713AV, Groningen
 
 **Route descriptions**<br>
 * *From entrance Antinius Deusinglaan 1 to the Workshop rooms*: When approaching from the bus stop 'UMCG noord' (UMCG North), we recommend entering through the revolving doors of the yellow building (building 3219), then walk along the sitting area (building 3214), follow the sign to the restaurant (walk by the espressobar), down the steps and carry on straight (towards building 3215) at the end of the hallway you can either go through the door on your left and and walk up the stairs or walk around the staircase to use one of the elevators. Go to the 1st floor. Walk about 2/3rds down the only hallway until you find find the rooms labeled 149 and 154 (full room numbers for if you get lost 3215.0154 and 3215.0149). See below for visual instructions:
-<img src="images/entry_when_coming_from_bus_station.jpeg" width="350">
+<!--<img src="images/entry_when_coming_from_bus_station.jpeg" width="350">
 <img src="images/from_entry_to_espressobar.jpeg" width="350">
 <img src="images/from_espressobar_to_elevator.jpeg" width="350">
-<img src="images/from_elevator_to_workshop_room.jpeg" width="350">
+<img src="images/from_elevator_to_workshop_room.jpeg" width="350">-->
 
 * *From the Workshop rooms to the lunch location (Eriba 6<sup>th</sup> floor Lounge area)*: Go back the way you came to the ground floor. Walk by the restaurant, up the stairs, and straight across into the a hallway. When you get to a bigger open space you will find the elevator and stairwell in at your 1'o clock. Go to the 6<sup>th</sup> floor. Follow the signs with arrows for 'Virologie & Immunologie research', take the left hallway on the T-junction, around the corner you will see a grey door at the end of the hallway, go through (push it to open if it is closed, it should be unlocked) to reach the 6<sup>th</sup> floor Lounge area. See below for visual instructions:
-<img src="images/from_workshop_room_to_elevator.jpeg" width="350">
+<!--<img src="images/from_workshop_room_to_elevator.jpeg" width="350">
 <img src="images/from_elevator_to_elevator.jpeg" width="350">
 <img src="images/take_elevator_to_6th_floor.jpeg" width="350">
-<img src="images/from_elevator_to_lunch_room.jpeg" width="350">
+<img src="images/from_elevator_to_lunch_room.jpeg" width="350">-->
 
 
 ## Key lecturers and tutors
