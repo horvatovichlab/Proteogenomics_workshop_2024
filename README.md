@@ -67,6 +67,18 @@ Attendance to the course is free, but travel and accommodation expenses should b
 * The Social Hub Groningen ([Boterdiep 9 9712 LH Groningen](https://www.thesocialhub.co/groningen/?utm_source=googlemybusiness&utm_medium=organic&y_source=1_Mjc4NzI2MDUtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D))
 * Hotel NH Groningen ([Hanzeplein 132 9713 GW Groningen](https://www.nh-hotels.com/en/hotel/nh-groningen?utm_campaign=local-gmb&utm_medium=organic_search&utm_source=google_gmb)).
 
+
+```
+cd /data/workshop/
+curl -s https://get.nextflow.io | bash #This installs nextflow
+mv nextflow ~/bin/ #Move nextflow to an easily executable location
+gdown 'https://tinyurl.com/MRC5-protein-db' --folder -O /data/workshop/data/MRC5/mRNAseq/ #download from gdrive
+gdown 'https://tinyurl.com/MRC5-raw-files' --folder -O /data/workshop/data/MRC5/ #download from gdrive
+mkdir -p /data/workshop/MRC5_proteomics #create directory for proteomics output
+cd /data/workshop/MRC5_proteomics  #move into the directory
+/workshop/code/Nextflow_implementation_proteomics_part/run_proteomics_pipeline.sh workshop_MRC5_proteomics
+```
+
 <img src="https://www.health-ri.nl/sites/healthri/files/styles/header_service/public/2020-02/xomicslogo.png.JPG?itok=Eqij9eRy" width="200" title="X-Omics"/>&emsp;
 <img src="https://www.rug.nl/about-ug/practical-matters/huisstijl/logobank-new/corporatelogo/corporatelogorood/rugr_logonl_rood_rgb.png" width="250" title="University of Groningen"/>&emsp;
 <img src="images/Eriba.jpg" width="200" title="ERIBA"/>&emsp;
